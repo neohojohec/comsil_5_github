@@ -1,2 +1,1 @@
-ETWON
-s
+NEWTEXT.txt is the intended name of this file, so the filename must be fixed after merge.

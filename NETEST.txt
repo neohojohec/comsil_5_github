@@ -1,2 +1,1 @@
-ETWON
-s
+In fact, the actual name of this text file should be NEWTEXT.txt

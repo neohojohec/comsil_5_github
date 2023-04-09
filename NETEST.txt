@@ -1,1 +1,1 @@
-Actually, the real name of this text file should be NEWTEXT.txt
+NEWTEXT.txt is the intended name of this file, so the filename must be fixed after merge.

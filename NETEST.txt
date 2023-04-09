@@ -1,1 +1,1 @@
-In fact, the actual name of this text file should be NEWTEXT.txt
+Actually, the real name of this text file should be NEWTEXT.txt

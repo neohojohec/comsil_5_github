@@ -3,4 +3,6 @@ MASTER
 =======
 This is the alpha branch.
 ALPHA
-
+=======
+This is the beta branch.
+BETA

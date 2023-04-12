@@ -1,1 +1,2 @@
-Actually, the real name of this file should be NEWTEXT.txt
+This is Beta branch.
+The name of this file should be beta.txt

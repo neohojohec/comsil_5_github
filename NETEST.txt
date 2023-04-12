@@ -1,2 +1,2 @@
-This is Master branch.
-The name of this file should be master.txt
+This is Gamma branch.
+The name of this file should be gamma.txt

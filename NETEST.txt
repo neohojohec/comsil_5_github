@@ -1,1 +1,2 @@
-NEWTEXT.txt is the intended name of this file, so the filename must be fixed after merge.
+This is Gamma branch.
+The name of this file should be gamma.txt

@@ -1,1 +1,2 @@
-Actually, the real name of this text file should be NEWTEXT.txt
+This is Alpha branch.
+The name of this file should be alpha.txt.

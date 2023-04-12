@@ -1,2 +1,0 @@
-This is Gamma branch.
-The name of this file should be gamma.txt
